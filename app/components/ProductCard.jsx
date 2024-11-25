@@ -15,7 +15,6 @@ const ProductCard = ({ product }) => {
             <p className="text-sm text-gray-500">{product.category}</p>
             <p className="text-xl font-bold text-blue-600">${product.price}</p>
             </Link>
-            <h1>Testing github </h1>
             <button className="mt-4 bg-blue-600 text-white py-2 px-4 rounded">
               Add to Cart
              </button>
