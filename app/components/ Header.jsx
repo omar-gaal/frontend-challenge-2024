@@ -16,7 +16,7 @@ export default function Navbar() {
           <Link href="/" className="hover:text-blue-400">Home</Link>
           <Link href="/product-list-page" className="hover:text-blue-400">Products</Link>
           {/* <Link href="/404page" className="hover:text-blue-400">About Us</Link> */}
-          <Link href="/404page" className="hover:text-blue-400">Cart</Link>
+          <Link href="/four-oh-four-page" className="hover:text-blue-400">Cart</Link>
         </nav>
       </div>
     </header>
